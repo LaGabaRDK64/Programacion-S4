@@ -34,10 +34,8 @@ en todos los casos
 
 **Solucion 2**: Ordenar los productos de mayor a menor, intercambiando la posicion
 del dato guardado, es decir, si 
-```c 
 producto[0] 
 es menor que 
-```c
 product[1] 
 
 se intercambiarian 
